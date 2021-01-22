@@ -1,4 +1,4 @@
-#Hi there! My name is Chuong.
+# Hi there! My name is Chuong.
 _Thank you for stopping by! This, is my "present"._
 
 ## I am comfortable with... :tea:
@@ -23,7 +23,7 @@ _Thank you for stopping by! This, is my "present"._
 * `Guiding` my friends basic programming  
 * Having a walk or a `long shower`
 
-##My thoughts... :smiley:
+## My thoughts... :smiley:
 > I love programming. It is empowering and full of challenges.  
 > Plus, I get to explore different perspectives through different people's code!
 
