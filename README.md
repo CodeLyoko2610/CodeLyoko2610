@@ -14,7 +14,7 @@ _Thank you for stopping by! This, is my "present"._
 * `AWS` , IaC `Terraform`
 * `Vue.JS`
 
-##Aiming at... :sunflower:
+## Aiming at... :sunflower:
 * AWS Certified `Developer - Associate` certification
 
 ## In my free time... :bicyclist:
