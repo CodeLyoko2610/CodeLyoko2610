@@ -14,6 +14,7 @@ _Thank you for stopping by! This, is my "present"._
 
 ## Getting my hands wet with... :seedling:
 * `ASP.Net core`, `Entity Framework`, `MVC Framework`, `Razor pages`
+* `Angular`
 * `AWS` , IaC `Terraform`
 * `Vue.JS`
 
