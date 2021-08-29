@@ -1,7 +1,7 @@
 # Hi there! My name is Chuong.
 _Thank you for stopping by! This, is my "present"._
 
-## TL;DR? Check my 1-page projects and roles [:paperclip: Recent projects](https://assets.ctfassets.net/449mcwf87tn4/7qfmBNa6i83wXqiU3k2m9M/fa9ceb0213b15c1a08e3d1f4e033be79/Chuong_Pham__-_Integrify_CV_-_25.09.2020.pdf)
+## TL;DR? Check my 1-page projects and roles [:paperclip: Recent projects](https://drive.google.com/file/d/1Y-4QNxmjSrMcVu3pUkqcdYy48-ZLpenR/view?usp=sharing)
 
 
 ## I am comfortable with... :tea:
